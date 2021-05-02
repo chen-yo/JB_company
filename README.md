@@ -1,2 +1,3 @@
 # JB_company
-`#Solution for JB company exercise
+
+#Solution for JB company exercise
